@@ -1,0 +1,5 @@
+D:\CSharp-Projects\CS280-Lecture2-Examples\Examples02\bin\Debug\Examples02.exe.config
+D:\CSharp-Projects\CS280-Lecture2-Examples\Examples02\bin\Debug\Examples02.exe
+D:\CSharp-Projects\CS280-Lecture2-Examples\Examples02\bin\Debug\Examples02.pdb
+D:\CSharp-Projects\CS280-Lecture2-Examples\Examples02\obj\Debug\Examples02.exe
+D:\CSharp-Projects\CS280-Lecture2-Examples\Examples02\obj\Debug\Examples02.pdb
