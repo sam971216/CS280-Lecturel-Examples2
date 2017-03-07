@@ -15,7 +15,7 @@ namespace Examples01
             Console.Write("請輸入密碼");
             string password = Console.ReadLine();
 
-            Console.WriteLine("嗨，{0)，歡迎回來!", name);
+            Console.WriteLine("嗨，{0}，歡迎回來!", name);
         }
     }
 }
